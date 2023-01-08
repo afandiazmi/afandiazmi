@@ -2,7 +2,6 @@
 - 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning backend for IOT
 - 💞️ I’m looking to collaborate on backend project
-- 📫 How to reach me? just email me afandi_army@live.com
 
 ### 🤝 Connect with me:
 
