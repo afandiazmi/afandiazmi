@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afandiazmi)](https://github.com/afandiazmi)
+[![Afandi's github stats](https://github-readme-stats.vercel.app/api?username=afandiazmi)](https://github.com/afandiazmi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afandiazmi&layout=compact)](https://github.com/afandiazmi)
 
