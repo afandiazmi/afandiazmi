@@ -15,8 +15,8 @@
 ![](https://img.shields.io/badge/IOT-Arduino-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/CAD-Solidwork-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/SQL-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
 
