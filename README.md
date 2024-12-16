@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afandiazmi
-- 👀 My research interest in IoT, backend, cracking, hacking
+- 👀 I'm interested in Robotics, IoT, backend, cracking, hacking
 - 🎓 Student of PhD in Technical Vocational Education and Training
 - 💞️ I’m looking to collaborate on any project
 
@@ -47,7 +47,7 @@
 </br>
 
 
-## 📈 GitHub Stats 
+![Afandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afandiazmi&show_icons=true&theme=radical)
 
 [![Afandi's github stats](https://github-readme-stats.vercel.app/api?username=afandiazmi)](https://github.com/afandiazmi)
 
