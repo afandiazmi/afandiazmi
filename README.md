@@ -47,13 +47,6 @@
 </br>
 
 
-![Afandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afandiazmi&show_icons=true&theme=radical)
-
-[![Afandi's github stats](https://github-readme-stats.vercel.app/api?username=afandiazmi)](https://github.com/afandiazmi)
+![Afandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afandiazmi&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afandiazmi&layout=compact)](https://github.com/afandiazmi)
-
-<!---
-afandiazmi/afandiazmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
