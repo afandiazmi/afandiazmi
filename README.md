@@ -51,6 +51,10 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Hacking" src="https://img.shields.io/badge/-Hacking-000000?style=flat-square&logo=hackaday&logoColor=white" />
+  <img alt="AR" src="https://img.shields.io/badge/-AR-FF4C4C?style=flat-square&logo=augmented-reality&logoColor=white" />
+<img alt="VR" src="https://img.shields.io/badge/-VR-00ADEF?style=flat-square&logo=virtual-reality&logoColor=white" />
+<img alt="Robotic" src="https://img.shields.io/badge/-Robotic-FF8000?style=flat-square&logo=robot-framework&logoColor=white" />
+
 
 </p>
 
