@@ -18,7 +18,15 @@
 ---
 
 <div align="center">
-  <img src="https://iso.500.kevops.xyz/api?user=afandiazmi&profile_view=yes&conf=activity&theme=radical" alt="3D Activity" />
+
+  <a href="https://github.com/afandiazmi/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afandiazmi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+  
+  <br/>
+
+  <img src="https://github-profile-achievements.vercel.app/api?username=afandiazmi&theme=radical" alt="Achievements" />
+
 </div>
 
 <br/>
