@@ -18,8 +18,15 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afandiazmi&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afandiazmi&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+
+  <a href="https://github.com/afandiazmi/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afandiazmi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=afandiazmi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="afandiazmi's trophies" />
+  </a>
+
 </div>
 
 <br/>
