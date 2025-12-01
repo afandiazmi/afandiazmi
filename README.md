@@ -23,11 +23,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=afandiazmi&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afandiazmi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
 
 </div>
 
