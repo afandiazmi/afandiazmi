@@ -18,15 +18,9 @@
 ---
 
 <div align="center">
-
-  <a href="https://github.com/afandiazmi/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afandiazmi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=afandiazmi&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
   </a>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=afandiazmi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="afandiazmi's trophies" />
-  </a>
-
 </div>
 
 <br/>
