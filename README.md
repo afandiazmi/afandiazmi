@@ -18,9 +18,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=afandiazmi&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
+  <img src="https://iso.500.kevops.xyz/api?user=afandiazmi&profile_view=yes&conf=activity&theme=radical" alt="3D Activity" />
 </div>
 
 <br/>
