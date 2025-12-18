@@ -23,8 +23,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=afandiazmi&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 
-  ![afandiazmi's Stats](https://github-readme-stats.vercel.app/api?username=afandiazmi&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-  
+![afandiazmi's Stats](https://github-readme-stats.vercel.app/api?username=afandiazmi&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
 
 </div>
 <
