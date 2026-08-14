@@ -11,7 +11,7 @@
 
 <p align="center">
 👀 Interested in <b>Robotics, IoT, Backend, Cracking, & Hacking</b><br>
-🎓 PhD Student in <b>Technical Vocational Education and Training</b><br>
+🎓 Doctor of Philosophy in <b>Technical Vocational Education and Training</b><br>
 💞️ Looking to collaborate on open source projects
 </p>
 
